@@ -1,6 +1,3 @@
-# Seja bem-vindo(a) ao meu perfil! 👋
-
-
 ## 🚀 Sobre mim
 Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sitemas, atualmente no segundo semestre, pela Universidade de Mogi das Cruzes, também faço parte de um programa de parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP, onde estudo Desenvolvimento Frond-end. 
 
@@ -10,10 +7,7 @@ Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sitemas
 
 ## 🔗 Links
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
-          
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrehataishi)
 
 
 <!--
