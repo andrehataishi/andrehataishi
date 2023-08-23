@@ -1,4 +1,4 @@
-# 👋 Seja bem-vindo(a) ao meu perfil! 
+# 👋 Seja bem-vindo(a) ao meu perfil!
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andrehataishi&show_icons=true&theme=radical)
 
