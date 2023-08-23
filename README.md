@@ -1,10 +1,10 @@
-## 🚀 Sobre mim
-
-Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sitemas, atualmente no segundo semestre, pela Universidade de Mogi das Cruzes, também faço parte de um programa de parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP, onde estudo Desenvolvimento Frond-end. 
-
+# 👋 Seja bem-vindo(a) ao meu perfil! 
 
 ![André GitHub stats](https://github-readme-stats.vercel.app/api?username=andrehataishi&show_icons=true&theme=radical)
 
+## 🚀 Sobre mim
+
+Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sitemas, atualmente no segundo semestre, pela Universidade de Mogi das Cruzes, também faço parte de um programa de parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP, onde estudo Desenvolvimento Frond-end. 
 
 ## 🔗 Links
 
