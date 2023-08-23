@@ -1,4 +1,7 @@
-### Hi there 👋
+### Seja bem-vindo ao meu perfil! 👋
+
+Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sitemas, atualmente no segundo semestre, pela Universidade de Mogi das Cruzes, também faço parte de um programa de parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP, onde estudo Desenvolvimento Frond-end. 
+
 
 <!--
 **andrehataishi/andrehataishi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
