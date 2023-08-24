@@ -12,7 +12,7 @@ Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sitemas
 
 ## 🛠  Expandindo o conhecimento em
 
-![pythonLogo](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![pythonLogo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![sql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![htmlLogo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![cssLogo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
