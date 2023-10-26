@@ -8,7 +8,7 @@ FF8C00 = laranja
 -->
 ## 🚀 Sobre mim
 
-Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre, pela Universidade de Mogi das Cruzes, também faço parte de um programa de parceria entre a Ford Motor Company Brasil, Ford Fund e SENAI-SP, onde estudo Desenvolvimento Frond-end.
+Me chamo André, sou estudante do curso de Análise e Desenvolvimento de Sistemas, atualmente no segundo semestre, pela **Universidade de Mogi das Cruzes**, também faço parte de um programa de parceria entre a **Ford Motor Company Brasil**, **Ford Fund** e **SENAI-SP**, onde estudo Desenvolvimento Frond-end.
 
 ## 🛠  Expandindo o conhecimento em
 
